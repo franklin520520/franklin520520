@@ -40,7 +40,7 @@
 <p align="left">👀 I’m interested in linux</p>
 <p align="left">🌱 I’m currently learning machine learning</p>
 <p align="left">💬 Ask me about Deep Learning, Python and my projects</p>
-<p align="left">🤔 I love **Reading, photography**</p>
+<p align="left">🤔 I love Reading, photography</p>
 <p align="left">📫 How to reach me fc457451605@gmail.com</p>
 <p align="left">⚡ Fun fact: aclos、pvz、minecraft</p>
 
@@ -165,7 +165,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-my ![Visitor Count](https://profile-counter.glitch.me/franklin520520/count.svg) visitor
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
+
+you are my ![Visitor Count](https://profile-counter.glitch.me/franklin520520/count.svg) visitor
