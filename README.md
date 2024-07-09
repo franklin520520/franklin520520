@@ -24,7 +24,6 @@
 - 💬 Ask me about Deep Learning, Python and my projects
 - 🤔 I love **Reading, photography**
 - 📫 How to reach me fc457451605@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: aclos、pvz、minecraft
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin520520)](https://github.com/franklin520520/github-readme-stats)
