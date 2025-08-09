@@ -163,4 +163,3 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
-you are my ![Visitor Count](https://profile-counter.glitch.me/franklin520520/count.svg)visitor
